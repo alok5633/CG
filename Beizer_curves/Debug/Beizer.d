@@ -1,0 +1,1 @@
+Beizer.o: ../Beizer.c

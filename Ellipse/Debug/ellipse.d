@@ -1,0 +1,1 @@
+ellipse.o: ../ellipse.c

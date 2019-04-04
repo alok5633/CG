@@ -1,0 +1,1 @@
+liang.o: ../liang.c
